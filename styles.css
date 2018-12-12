@@ -1,0 +1,25 @@
+body {background-color: #d7fbe8;
+}
+hr {background-color: #d7fbe8;
+border-style: dotted none none;
+border-color: #1fab89;
+border-width: 5px;
+
+width: 5%;}
+H1 {color:
+  #2d4059;}
+H3 {color: #1fab89;}
+body {color: #2d4059;}
+p {font-family: Tahoma, Geneva, sans-serif;}
+th, td {font-family: Tahoma, Geneva, sans-serif;}
+table {
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+th {
+  text-align: left;
+}
+tr:hover {background-color: #e4f9f5;}
